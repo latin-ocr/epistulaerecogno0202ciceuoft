@@ -1,0 +1,16 @@
+SIGLA
+
+li‘av. = codex Ravennas in bibl. Classensi, saecl. xiii
+secundum Mommsenum
+Aul. et F Ξ codex Antonianus et codex f aerni quibus Malaspina
+usus est
+
+J= editio Iensoniana princeps (Venetiis 1470)
+Ram. = editio Romana princeps (Romae 1470)
+Vm. = editio Petri Victori (Venetiis 1534-1537)
+Asan. = editio Pauli Manuti (Venetiis 1563)
+
+[odd. = consensus codicum vel omnium vel plurimorum
+vell. = editores veteres
+vulg. = scriptura in editionibus vulgata
+
